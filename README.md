@@ -1,5 +1,6 @@
 # RiskGuard---Innovations-In-Credit-Safeguarding
-# Credit risk pertains to the possibility that a borrower might fail to reimburse a
+# 
+Credit risk pertains to the possibility that a borrower might fail to reimburse a
 loan, resulting in the lender losing either the principal amount or the associated
 interest. This risk emerges because borrowers rely on future cash flows to settle
 current debts, making it challenging to guarantee their ability to repay. Interest
