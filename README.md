@@ -10,7 +10,11 @@ harness analytics to obtain insights and effectively assess risks and opportunit
 This empowers more efficient decision-making processes, ultimately aiming to
 bolster market share.
 Credit Risk analytics solutions include:
+
 • Loan Delinquency and Default
+
 • Loan Portfolio Management
+
 • Sales/Service Differentiation
+
 • Low Loan Recovery and High Charge-off
